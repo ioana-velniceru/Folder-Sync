@@ -1,0 +1,14 @@
+The synchronization started:
+The folder C:\Users\ioana\OneDrive\Desktop\replica\new_folder has been created.
+The file C:\Users\ioana\OneDrive\Desktop\replica\folder_to_delete\folder_to_delete_2\delete_text_2.txt has been deleted.
+The folder C:\Users\ioana\OneDrive\Desktop\replica\folder_to_delete\folder_to_delete_2 has been deleted.
+The file C:\Users\ioana\OneDrive\Desktop\replica\folder_to_delete\delete_text.txt has been deleted.
+The folder C:\Users\ioana\OneDrive\Desktop\replica\folder_to_delete has been deleted.
+The file C:\Users\ioana\OneDrive\Desktop\replica\new_folder\new_text.txt has been created.
+The file C:\Users\ioana\OneDrive\Desktop\replica\text_to_create.txt has been created.
+The file C:\Users\ioana\OneDrive\Desktop\replica\text_to_update.txt has been updated.
+The file C:\Users\ioana\OneDrive\Desktop\replica\text_to_delete.txt has been deleted.
+The synchronization has successfully completed.
+The synchronization started:
+The file C:\Users\ioana\OneDrive\Desktop\replica\text_to_update.txt has been updated.
+The synchronization has successfully completed.
